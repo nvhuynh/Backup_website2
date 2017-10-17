@@ -1,0 +1,22 @@
+{
+  "name": "nvhuynh.github.io",
+  "version": "1.0.0",
+  "description": "Code for my website at https://nvhuynh.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvhuynh/nvhuynh.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvhuynh/nvhuynh.github.io/issues"
+  },
+  "homepage": "https://github.com/nvhuynh/nvhuynh.github.io#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
